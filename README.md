@@ -17,7 +17,7 @@ week 3 - mackenziechild - 12in12 - challenge
 
 ##### Try Recipe Box
 
-* Online  :  [recipe-box-app](https://recipe-box-app.herokuapp.com)    
+* Online  :  [recipebox-app](https://recipebox-app.herokuapp.com)    
 
 * Locally :
     - Clone this repositoy on your desktop
