@@ -1,7 +1,7 @@
 ### Recipe Box
 
 ~~~
-week 3 - mackenziechild - 12in12 - challenge
+week 3 - 12in12 - challenge
 ~~~
 
 <br/>
