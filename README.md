@@ -37,4 +37,4 @@ week 3 - 12in12 - challenge
 
 
 * Show Page  :  
-![index_page](https://github.com/oussou-dev/recipe-box_rails/blob/master/screenshot-2.png)
+![index_page](https://github.com/oussou-dev/recipe-box_rails/blob/master/screenshot-show_page.png)
